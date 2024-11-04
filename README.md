@@ -6,7 +6,7 @@
   <img src="https://www.netdata.cloud/img/readme-images/netdata_readme_logo_dark.png" alt="Netdata" width="300"/>
 </a>
 </p>
-<h3 align="center">Monitor your servers, containers, and applications<br/>in high-resolution and in real-time.</h3>
+<h3 align="center">Monitor your server, containers, and applications<br/>in high-resolution and in real-time.</h3>
 
 <br />
 <p align="center">
